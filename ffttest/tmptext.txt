@@ -1,0 +1,1 @@
+/eloquent_tinyml/tensorflow/esp32/patches/AllOpsResolver.h"
